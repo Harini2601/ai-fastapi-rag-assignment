@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Day 3 Assignment – Retrieval Augmented Generation (RAG) with FastAPI
 
 This project implements a complete RAG pipeline using FastAPI and LangChain (offline mode).
@@ -28,3 +29,5 @@ This project implements a complete RAG pipeline using FastAPI and LangChain (off
 ##  Run
 pip install fastapi uvicorn langchain langchain-community langchain-text-splitters chromadb pypdf python-multipart
 uvicorn main:app --reload
+=======
+
