@@ -1,0 +1,1 @@
+# ai-fastapi-rag-assignment
